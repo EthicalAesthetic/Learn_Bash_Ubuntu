@@ -124,3 +124,17 @@ Uses a three-digit octal number, where each digit represents permissions for the
 <b>Grant read and write to owner, read-only to others</b>: `chmod 644 file.txt`
 
 <b>Give full permissions to everyone recursively</b>: `chmod -R 777 my_directory/`
+
+## f. `pwd`
+Print Working Directory. 
+```bash
+pwd
+```
+```bash
+/home/user
+```
+## g. `cd`
+Change Directory
+```bash
+cd ./Project
+```
